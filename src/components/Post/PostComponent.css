@@ -3,8 +3,17 @@ float:left;
 }
 form{
     display: inline-flex;
+    float: left;
 }
 
 .form-group{
 margin-right: 10%;
+}
+
+.MuiContainer-root{
+    padding-top: 20px;
+}
+
+#buttonSubmit{
+    margin-top:10px
 }
